@@ -45,7 +45,7 @@ namespace RazorPagesMovie.Models
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
                         Price = 9.99M,
-                        Rating = "PG"
+                        Rating = "SPG"
                     },
 
                     new Movie
